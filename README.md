@@ -5,7 +5,7 @@ This script generates a detailed user persona by analyzing a Reddit user's profi
 
 # Features
 1. Scrapes recent posts and comments from any public Reddit user profile.
-2 . Uses a Large Language Model (LLM) via OpenRouter to analyze the user's activity.
+2. Uses a Large Language Model (LLM) via OpenRouter to analyze the user's activity.
 3. Generates a detailed user persona, including demographics, interests, and personality traits.
 4. Provides direct URL citations for every piece of information in the persona.
 5. Saves the final persona to a .txt file.
